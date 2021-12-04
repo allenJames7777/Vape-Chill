@@ -58,6 +58,26 @@ html, body {
     background-image: url("images/Customer Gallery/3.jpg");
     background-size: cover;
   }
+
+  .slide:nth-of-type(4) {
+    background-image: url("images/Customer Gallery/4.jpg");
+    background-size: cover;
+  }
+
+  .slide:nth-of-type(5) {
+    background-image: url("images/Customer Gallery/5.jpg");
+    background-size: cover;
+  }
+
+  .slide:nth-of-type(6) {
+    background-image: url("images/Customer Gallery/6.jpg");
+    background-size: cover;
+  }
+
+  .slide:nth-of-type(7) {
+    background-image: url("images/Customer Gallery/7.jpg");
+    background-size: cover;
+  }
   
   
   .slide_buttons {
