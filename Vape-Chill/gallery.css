@@ -45,40 +45,20 @@ html, body {
   }
   
   .slide:nth-of-type(1) {
-    background-image: url("images/Customer Gallery/1.jpg");
+    background-image: url("images/Customer Gallery/collage1.jpg");
     background-size: cover;
   }
   
   .slide:nth-of-type(2) {
-    background-image: url("images/Customer Gallery/2.jpg");
+    background-image: url("images/Customer Gallery/collage2.jpg");
     background-size: cover;
   }
   
   .slide:nth-of-type(3) {
-    background-image: url("images/Customer Gallery/3.jpg");
+    background-image: url("images/Customer Gallery/collage3.jpg");
     background-size: cover;
   }
-
-  .slide:nth-of-type(4) {
-    background-image: url("images/Customer Gallery/4.jpg");
-    background-size: cover;
-  }
-
-  .slide:nth-of-type(5) {
-    background-image: url("images/Customer Gallery/5.jpg");
-    background-size: cover;
-  }
-
-  .slide:nth-of-type(6) {
-    background-image: url("images/Customer Gallery/6.jpg");
-    background-size: cover;
-  }
-
-  .slide:nth-of-type(7) {
-    background-image: url("images/Customer Gallery/7.jpg");
-    background-size: cover;
-  }
-  
+ 
   
   .slide_buttons {
     left: 0;
@@ -134,6 +114,10 @@ html, body {
   
   .previous_btn:hover, .next_btn:hover {
     opacity: 1;
+  }
+
+  .map {
+    margin-top: 40px;
   }
   
   @media only screen and (max-width: 767px) {
