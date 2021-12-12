@@ -18,7 +18,7 @@ html, body {
   
   .slider {
     margin: 0 auto;
-    max-width: 1190px;
+    max-width: 1190px;    
   }
   
   .slide_viewer {
@@ -65,6 +65,7 @@ html, body {
     position: absolute;
     right: 0;
     text-align: center;
+    
   }
   
   a.slide_btn {
