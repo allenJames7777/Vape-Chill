@@ -38,16 +38,16 @@ html, body {
     display: block;
   }
   .slide:nth-of-type(1) {
-    background-image: url("images/slide1.jpg");
+    background-image: url("images/Customer Gallery/Change/11111.png");
     background-size: cover;
   }
   .slide:nth-of-type(2) {
-    background-image: url("images/slide 3.jpg");
+    background-image: url("images/Customer Gallery/Change/Geekvape.png");
     background-size: cover;
   }
   
   .slide:nth-of-type(3) {
-    background-image: url("images/slide2.jpg");
+    background-image: url("images/Customer Gallery/Change/resize-1640051098276972686image9ae9cf5739f642aab94d204a58e5b5181200x1200.jpg");
     background-size: cover;
   }
   .slide_buttons {
